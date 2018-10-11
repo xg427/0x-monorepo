@@ -7,10 +7,10 @@ order_utils.py
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: zero_x.order_utils
+.. automodule:: zero_ex.order_utils
    :members:
 
-.. automodule:: zero_x.order_utils.signature_utils
+.. automodule:: zero_ex.order_utils.signature_utils
    :members:
 
 

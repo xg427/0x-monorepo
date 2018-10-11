@@ -89,11 +89,11 @@ setup(
         ]
     },
     python_requires=">=3.6, <4",
-    package_data={"zero_x.order_utils": ["py.typed"]},
+    package_data={"zero_ex.order_utils": ["py.typed"]},
     package_dir={"": "src"},
     license="Apache 2.0",
     keywords="ethereum",
-    packages=["zero_x.order_utils"],
+    packages=["zero_ex.order_utils"],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",

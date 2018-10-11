@@ -1,6 +1,6 @@
 """Tests of 0x.order_utils.signature_utils.*."""
 
-from zero_x.order_utils.signature_utils import ec_sign_order_hash
+from zero_ex.order_utils.signature_utils import ec_sign_order_hash
 
 
 def test_ec_sign_order_hash():
