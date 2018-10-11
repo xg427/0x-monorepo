@@ -92,7 +92,9 @@ setup(
     package_data={"zero_ex.order_utils": ["py.typed"]},
     package_dir={"": "src"},
     license="Apache 2.0",
-    keywords="ethereum",
+    keywords=(
+        "ethereum cryptocurrency 0x decentralized blockchain dex exchange"
+    ),
     packages=["zero_ex.order_utils"],
     classifiers=[
         "Development Status :: 1 - Planning",
